@@ -1,3 +1,7 @@
+info:
+  cid: prototype1
+  title: Prototype1 ECU
+
 pins:
   - id: B14
     class: outputs
